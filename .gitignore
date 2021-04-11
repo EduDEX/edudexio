@@ -1,0 +1,14 @@
+*.log
+*~
+.DS_Store
+
+awscpu
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.profile
+*.env
